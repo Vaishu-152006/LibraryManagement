@@ -7,3 +7,6 @@ The Library Management System is a simple console-based Java application designe
 The main objective of this project is to demonstrate object-oriented programming concepts such as classes, objects, encapsulation, collections, and package structuring in Java. The system is menu-driven and interacts with the user through the console.
 
 <img width="1156" height="1397" alt="image" src="https://github.com/user-attachments/assets/c1b8341c-634e-4ed5-9036-c9ec783d9e08" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/29774679-c139-4026-aa22-b46edb0ae80b" />
+
